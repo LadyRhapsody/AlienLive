@@ -1,0 +1,561 @@
+fileFormatVersion: 2
+guid: 07ea8ba30bd47ae46a06ceb965ea910f
+timeCreated: 1429959524
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: rpg objects_0
+    21300002: rpg objects_1
+    21300004: rpg objects_2
+    21300006: rpg objects_3
+    21300008: rpg objects_4
+    21300010: rpg objects_5
+    21300012: rpg objects_6
+    21300014: rpg objects_7
+    21300016: rpg objects_8
+    21300018: rpg objects_9
+    21300020: rpg objects_10
+    21300022: rpg objects_11
+    21300024: rpg objects_12
+    21300026: rpg objects_13
+    21300028: rpg objects_14
+    21300030: rpg objects_15
+    21300032: rpg objects_16
+    21300034: rpg objects_17
+    21300036: rpg objects_18
+    21300038: rpg objects_19
+    21300040: rpg objects_20
+    21300042: rpg objects_21
+    21300044: rpg objects_22
+    21300046: rpg objects_23
+    21300048: rpg objects_24
+    21300050: rpg objects_25
+    21300052: rpg objects_26
+    21300054: rpg objects_27
+    21300056: rpg objects_28
+    21300058: rpg objects_29
+    21300060: rpg objects_30
+    21300062: rpg objects_31
+    21300064: rpg objects_32
+    21300066: rpg objects_33
+    21300068: rpg objects_34
+    21300070: rpg objects_35
+    21300072: rpg objects_36
+    21300074: rpg objects_37
+    21300076: rpg objects_38
+    21300078: rpg objects_39
+    21300080: rpg objects_40
+    21300082: rpg objects_41
+    21300084: rpg objects_42
+    21300086: rpg objects_43
+    21300088: rpg objects_44
+    21300090: rpg objects_45
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: rpg objects_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 197
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg objects_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 193
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg objects_2
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 197
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg objects_3
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 197
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg objects_4
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 195
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg objects_5
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 194
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg objects_6
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 205
+        width: 35
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg objects_7
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 171
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg objects_8
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 172
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg objects_9
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 172
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg objects_10
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 145
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg objects_11
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 182
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg objects_12
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 168
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg objects_13
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 153
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg objects_14
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 152
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg objects_15
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 147
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg objects_16
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 159
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg objects_17
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 163
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg objects_18
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 155
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg objects_19
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 131
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg objects_20
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 129
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg objects_21
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 130
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg objects_22
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 118
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg objects_23
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 137
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg objects_24
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 113
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg objects_25
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 119
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg objects_26
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 123
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg objects_27
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 111
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg objects_28
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 111
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg objects_29
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 99
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg objects_30
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 100
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg objects_31
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 99
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg objects_32
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 58
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg objects_33
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 22
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg objects_34
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 91
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg objects_35
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 90
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg objects_36
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 56
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg objects_37
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 90
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg objects_38
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 41
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg objects_39
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 45
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg objects_40
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 80
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg objects_41
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 49
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg objects_42
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 43
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg objects_43
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 14
+        width: 40
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg objects_44
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 16
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg objects_45
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 154
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

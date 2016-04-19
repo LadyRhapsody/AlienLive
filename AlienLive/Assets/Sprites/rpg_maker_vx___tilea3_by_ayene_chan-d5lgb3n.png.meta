@@ -1,0 +1,1463 @@
+fileFormatVersion: 2
+guid: 0967e1f53eadfde4896a26caada2cf48
+timeCreated: 1429972541
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_0
+    21300002: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_1
+    21300004: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_2
+    21300006: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_3
+    21300008: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_4
+    21300010: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_5
+    21300012: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_6
+    21300014: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_7
+    21300016: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_8
+    21300018: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_9
+    21300020: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_10
+    21300022: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_11
+    21300024: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_12
+    21300026: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_13
+    21300028: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_14
+    21300030: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_15
+    21300032: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_16
+    21300034: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_17
+    21300036: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_18
+    21300038: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_19
+    21300040: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_20
+    21300042: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_21
+    21300044: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_22
+    21300046: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_23
+    21300048: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_24
+    21300050: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_25
+    21300052: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_26
+    21300054: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_27
+    21300056: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_28
+    21300058: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_29
+    21300060: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_30
+    21300062: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_31
+    21300064: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_32
+    21300066: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_33
+    21300068: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_34
+    21300070: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_35
+    21300072: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_36
+    21300074: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_37
+    21300076: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_38
+    21300078: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_39
+    21300080: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_40
+    21300082: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_41
+    21300084: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_42
+    21300086: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_43
+    21300088: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_44
+    21300090: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_45
+    21300092: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_46
+    21300094: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_47
+    21300096: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_48
+    21300098: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_49
+    21300100: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_50
+    21300102: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_51
+    21300104: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_52
+    21300106: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_53
+    21300108: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_54
+    21300110: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_55
+    21300112: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_56
+    21300114: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_57
+    21300116: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_58
+    21300118: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_59
+    21300120: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_60
+    21300122: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_61
+    21300124: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_62
+    21300126: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_63
+    21300128: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_64
+    21300130: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_65
+    21300132: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_66
+    21300134: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_67
+    21300136: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_68
+    21300138: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_69
+    21300140: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_70
+    21300142: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_71
+    21300144: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_72
+    21300146: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_73
+    21300148: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_74
+    21300150: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_75
+    21300152: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_76
+    21300154: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_77
+    21300156: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_78
+    21300158: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_79
+    21300160: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_80
+    21300162: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_81
+    21300164: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_82
+    21300166: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_83
+    21300168: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_84
+    21300170: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_85
+    21300172: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_86
+    21300174: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_87
+    21300176: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_88
+    21300178: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_89
+    21300180: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_90
+    21300182: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_91
+    21300184: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_92
+    21300186: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_93
+    21300188: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_94
+    21300190: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_95
+    21300192: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_96
+    21300194: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_97
+    21300196: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_98
+    21300198: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_99
+    21300200: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_100
+    21300202: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_101
+    21300204: wall_wood_ru1
+    21300206: wall_wood_lu1
+    21300208: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_104
+    21300210: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_105
+    21300212: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_106
+    21300214: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_107
+    21300216: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_108
+    21300218: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_109
+    21300220: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_110
+    21300222: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_111
+    21300224: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_112
+    21300226: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_113
+    21300228: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_114
+    21300230: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_115
+    21300232: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_116
+    21300234: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_117
+    21300236: wall_wood_rd1
+    21300238: wall_wood_ld1
+    21300240: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_120
+    21300242: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_121
+    21300244: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_122
+    21300246: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_123
+    21300248: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_124
+    21300250: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_125
+    21300252: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_126
+    21300254: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_127
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_25
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_27
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_29
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_30
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_31
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_41
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_42
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_43
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_44
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_45
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_46
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_47
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_59
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_60
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_61
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_62
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_63
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_65
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_66
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_67
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_69
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_70
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_71
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_72
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_73
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_74
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_75
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_76
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_77
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_78
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_79
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_81
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_82
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_83
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_84
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_85
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_86
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_87
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_88
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_89
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_90
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_91
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_92
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_93
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_94
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_95
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_97
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_98
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_99
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_100
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_101
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wall_wood_ru1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wall_wood_lu1
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_104
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_105
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_106
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_107
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_108
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_109
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_110
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_111
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_113
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_114
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_115
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_116
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_117
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wall_wood_rd1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wall_wood_ld1
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_120
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_121
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_122
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_123
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_124
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_125
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_126
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_vx___tilea3_by_ayene_chan-d5lgb3n_127
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
