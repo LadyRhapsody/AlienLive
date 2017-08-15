@@ -64,7 +64,7 @@ public class MainBar : MonoBehaviour
         int random = Random.Range(0, 10);
         int randomNpc = Random.Range(0, npcs.Length);
 
-        if (random % 3 == 0)
+        if (random % 4 == 0)
         {
             Debug.Log("New Costumer!");
             // TODO: prüfen ob freie Stühle vorhanden. 
