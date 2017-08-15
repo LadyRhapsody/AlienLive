@@ -48,7 +48,7 @@ public class MainBar : MonoBehaviour
 
         npcList = new List<NPC>();
 
-        chairs = new Chair[24];
+        chairs = new Chair[11];
         chairs = GetComponentsInChildren<Chair>();
         Debug.Log(chairs.Length);
         barLevel = 1;
