@@ -12,7 +12,7 @@ public class MainBar : MonoBehaviour
     public int waitSeconds;
 
     private List<NPC> npcList;
-    private Chair[] chairs = new Chair[24];
+    private Chair[] chairs = new Chair[11];
     private Transform NpcHolder;
     private bool open = true;
     private int barLevel;
@@ -60,7 +60,6 @@ public class MainBar : MonoBehaviour
 
     private void NewCustomer()
     {
-        Debug.Log("New Costumer?");
         int random = Random.Range(0, 10);
         int randomNpc = Random.Range(0, npcs.Length);
 
