@@ -4,24 +4,22 @@ using System.Collections;
 public class Chair : MonoBehaviour {
 
     public bool IsTarget = false;
-    private bool lookDown;
+    public bool Horizontal = false;
+    public float Look;
     
 
     void Start()
     {
-        if (transform.position.y== -3.84f || transform.position.y == -5.44f)
-        {
-            lookDown = true;
-        }
-        else
-        {
-            lookDown = false;
-        }
+       
     }
 
-    internal bool Look()
+    internal bool Direction()
     {
-        return lookDown;
+        return Horizontal;
     }
 
+    internal float LookFloat()
+    {
+        return Look;
+    }
 }

@@ -92,7 +92,7 @@ public class MainBar : MonoBehaviour
                     int chairNum = Random.Range(0, chairs.Length);
                     if (!chairs[chairNum].IsTarget)
                     {
-                        n.StartMove(chairs[chairNum].transform, chairs[chairNum].Look());
+                        n.StartMove(chairs[chairNum].transform, chairs[chairNum].Direction(), chairs[chairNum].LookFloat());
                         chairs[chairNum].IsTarget = true;
                         n.MoveToChair();
                     }
