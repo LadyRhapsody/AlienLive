@@ -8,55 +8,125 @@ public class Inventory : MonoBehaviour
 {
 
     private Text text;
-    private MainBar bar = null;
-    private Player player = null;
+    private RectTransform rect;
+    private List<GameObject> inventory;
 
-
+    public int slots;
+    public int slotSize;
+    public int slotPaddingLeft;
+    public int slotPaddingTop;
+    public int rows;
+    public GameObject slotPrefab;
+    private ScreenFader fader;
 
     // Use this for initialization
-    void Start()
+    void Awake()
     {
         text = GetComponentInChildren<Text>();
+        fader = GameObject.FindGameObjectWithTag("Fader").GetComponent<ScreenFader>();
     }
 
-    public Inventory StartInventory(string typ)
+    public void StartInventory(string typ)
     {
         switch (typ)
         {
 
             case "Barinventory":
-                return StartBarInventory();
-                
+                StartBarInventory();
+                break;
             case "Player":
-                return StartPlayerInventory();
-                
+                StartPlayerInventory();
+                break;
 
         }
-
-        return null;
     }
 
-    private Inventory StartPlayerInventory()
+    private void StartPlayerInventory()
     {
+        rect = GetComponent<RectTransform>();
 
-        List<Image> inventory = new List<Image>();
-        for(int i = 1; i < 15; i++)
+        var rectHight = rows * (slotSize + slotPaddingTop) + (8 * slotPaddingTop) + 40;
+        var rectWidth = (slots / rows) * (slotSize + slotPaddingLeft) + (20 * slotPaddingLeft);
+
+        rect.SetSizeWithCurrentAnchors(RectTransform.Axis.Horizontal, rectWidth);
+        rect.SetSizeWithCurrentAnchors(RectTransform.Axis.Vertical, rectHight);
+
+        inventory = new List<GameObject>();
+
+        int colums = slots / rows;
+        for (int i = 0; i < rows; i++)
         {
+            for (int k = 0; k < colums; k++)
+            {
+                GameObject newSlot = (GameObject)Instantiate(slotPrefab);
 
+                RectTransform slotRect = newSlot.GetComponent<RectTransform>();
+
+                newSlot.name = "Slot";
+
+                newSlot.transform.SetParent(this.transform);
+
+                float x = (2 * slotPaddingLeft) * (k + 1) + (slotSize * k) + slotPaddingLeft;
+                float y = -slotPaddingTop * (i + 1) - (slotSize * i) - slotPaddingTop - 40;
+
+                slotRect.localPosition = new Vector3(x, y);
+
+                slotRect.SetSizeWithCurrentAnchors(RectTransform.Axis.Horizontal, slotSize);
+                slotRect.SetSizeWithCurrentAnchors(RectTransform.Axis.Vertical, slotSize);
+
+                slotRect.localScale = new Vector3(1, 1);
+
+                inventory.Add(newSlot);
+            }
         }
-
-        return this;
+        text.text = "Spieler Inventar";
 
     }
 
-    private Inventory StartBarInventory()
+    private void StartBarInventory()
     {
-        List<Image> inventory = new List<Image>();
-        for (int i = 1; i < 20; i++)
-        {
+        rect = GetComponent<RectTransform>();
 
+        var rectHight = rows * (slotSize + slotPaddingTop) + (10 * slotPaddingTop) + 40;
+        var rectWidth = (slots / rows) * (slotSize + slotPaddingLeft) + (10 * slotPaddingLeft);
+
+        rect.SetSizeWithCurrentAnchors(RectTransform.Axis.Horizontal, rectWidth);
+        rect.SetSizeWithCurrentAnchors(RectTransform.Axis.Vertical, rectHight);
+
+        inventory = new List<GameObject>();
+
+        int colums = slots / rows;
+        for (int i = 0; i < rows; i++)
+        {
+            for (int k = 0; k < colums; k++)
+            {
+                GameObject newSlot = Instantiate(slotPrefab);
+
+                RectTransform slotRect = newSlot.GetComponent<RectTransform>();
+
+                newSlot.name = "Slot";
+
+                newSlot.transform.SetParent(this.transform);
+
+                float x = (2 * slotPaddingLeft) * (k + 1) + (slotSize * k) + 2 * slotPaddingLeft;
+                float y = -slotPaddingTop * (i + 1) - (slotSize * i) - slotPaddingTop - 50;
+
+                slotRect.localPosition = new Vector3(x, y);
+
+                slotRect.SetSizeWithCurrentAnchors(RectTransform.Axis.Horizontal, slotSize);
+                slotRect.SetSizeWithCurrentAnchors(RectTransform.Axis.Vertical, slotSize);
+
+                slotRect.localScale = new Vector3(1, 1);
+
+                inventory.Add(newSlot);
+            }
         }
 
-        return this;
+
+        //text.text = "Bar Inventar";
+        rect.localScale = new Vector3(2, 2);
+
+        StartCoroutine(fader.FadeToBlack());
+
     }
 }
