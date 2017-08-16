@@ -4,7 +4,7 @@ using System.Collections;
 public class Chair : MonoBehaviour {
 
     public bool IsTarget = false;
-    public bool Horizontal = false;
+    public bool Horizontal;
     public float Look;
     
 

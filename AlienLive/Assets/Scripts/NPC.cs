@@ -37,7 +37,6 @@ public class NPC : MonoBehaviour
 
         if (transform.position == Target.position)
         {
-
             StopMove();
         }
         else
@@ -50,9 +49,9 @@ public class NPC : MonoBehaviour
     private void MoveFunction()
     {
 
-        Debug.Log(look + "Around Table" + AroundTable());
+        Debug.Log(look + " Around Table " + AroundTable());
 
-        if (!look && AroundTable())
+        if (look && AroundTable())
         {
             if(!XPath())
                 YPath();
@@ -60,10 +59,12 @@ public class NPC : MonoBehaviour
         else if (!YPath())
             XPath();
 
+   
         foreach (Vector3 v in movePath)
         {
             rigid.MovePosition(v);
         }
+
     }
 
     private bool XPath()
@@ -163,9 +164,9 @@ public class NPC : MonoBehaviour
     {
         anim.SetBool("isWalking", false);
         if (look)
-            anim.SetFloat("input_y", direction);
-        else
             anim.SetFloat("input_x", direction);
+        else
+            anim.SetFloat("input_y", direction);
     }
 
     internal bool HasTarget()
@@ -188,7 +189,7 @@ public class NPC : MonoBehaviour
         else
         {
             if (transform.position.y < Target.position.y && direction == -0.16f) return true;
-            else if (transform.position.y > Target.position.y && direction == 0.16f) return true;
+            else if (transform.position.y > Target.position.y && direction == +0.16f) return true;
         }
         return false;
     }

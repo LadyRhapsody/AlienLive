@@ -104,5 +104,4 @@ public class MainBar : MonoBehaviour
             }
         }
     }
-
 }

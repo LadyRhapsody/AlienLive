@@ -1,10 +1,2 @@
 Base path: C:/Program Files/Unity/Editor/Data
 Cmd: initializeCompiler
-<<<<<<< HEAD
-Unhandled exception: Protocol error - failed to read correct magic number
-
-Quitting shader compiler process
-=======
-Cmd: preprocess
-  insize=2935 outsize=903 ok=1
->>>>>>> 93eb1053266ab55ecadec23e1629c2346c0e39b2
